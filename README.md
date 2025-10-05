@@ -1,4 +1,4 @@
-# Gericht - A Restaurant Landing Page
+# [Gericht](https://gericht-dinings.web.app/) - A Restaurant Landing Page
 
 Welcome to **Gericht** – a modern and visually stunning restaurant landing page built using React. This project focuses solely on the UI, leveraging the BEM (Block, Element, Modifier) methodology to ensure clean, maintainable, and scalable code.
 
@@ -31,7 +31,7 @@ To get started with Gericht, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/gericht-landing-page.git
+   git clone https://github.com/jaluiovilash/gericht-landing-page.git
    ```
 
 2. **Navigate to the project directory:**
